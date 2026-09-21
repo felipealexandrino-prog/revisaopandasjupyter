@@ -1,0 +1,14 @@
+vendedor,cidade,categoria,produto,preco,quantidade
+Ana,Salvador,Eletrônicos,Notebook,3500.0,2.0
+Bruno,Camaçari,Acessórios,Mouse,120.0,5.0
+Carlos,salvador,Eletrônicos,Monitor,1200.0,2.0
+Ana,Camaçari,Acessórios,Teclado,200.0,3.0
+Bruno,Salvador,Eletrônicos,Notebook,,1.0
+Carlos,Camaçari,Acessórios,Mouse,150.0,
+Ana,salvador,Eletrônicos,Monitor,1150.0,2.0
+Bruno,Camaçari,Eletrônicos,Notebook,3300.0,1.0
+Carlos,Salvador,Acessórios,Teclado,220.0,3.0
+Ana,Camaçari,Eletrônicos,Monitor,1250.0,1.0
+Bruno,Salvador,Acessórios,Mouse,130.0,6.0
+Carlos,Camaçari,Eletrônicos,Notebook,3450.0,2.0
+Ana,Salvador,Eletrônicos,Notebook,3500.0,2.0
